@@ -9,7 +9,7 @@ random_number = random.randint(1, 9)
 if random_number == 1:
   answer = "It is decidedly so"
 elif random_number == 2:
-  answer = "It is decidedly so"
+  answer = "Absolutely no chance"
 elif random_number == 3:
   answer = "Without a doubt"
 elif random_number == 4:
