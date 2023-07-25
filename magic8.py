@@ -23,7 +23,7 @@ elif random_number == 7:
 elif random_number == 8:
   answer = "Outlook not so good"
 elif random_number == 9: 
-  answer = "Very doubtful"
+  answer = "It's not likely"
 
 
 if name == "":
